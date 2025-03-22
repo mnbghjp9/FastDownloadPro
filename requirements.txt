@@ -1,4 +1,4 @@
-PyQt5==5.15.9
+info: please complete authentication in your browser...info: please complete authentication in your info: please complete authentication in your browser...info: please complete authentication in your browser...info: please complete authentication in your browser...info: please complete authentication in your browser......PyQt5==5.15.9
 requests==2.31.0
 yt-dlp==2023.11.16
 google-auth-oauthlib==1.0.0
@@ -16,3 +16,12 @@ PySocks>=1.7.1
 moviepy>=1.0.3
 Pillow>=10.0.0
 ffmpeg-python>=0.2.0
+tensorflow>=2.13.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+pytesseract>=0.3.10
+selenium>=4.11.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
